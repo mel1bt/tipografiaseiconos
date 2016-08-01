@@ -1,0 +1,32 @@
+body {
+	padding-left: 100px;
+}
+a {
+	
+	background-color: #FBFBFB;
+	display: inline-block;
+	text-align: center;
+	color: #737373;
+	width: 200px;
+	height: 350px;
+	float: left;
+	margin: 5px;
+	padding: 5px;
+	text-decoration: none;
+	box-shadow: #EFEFEF 2px 2px 0px;
+}
+h1 span {
+	font-size: 50px;
+}
+a:hover {
+	background-color: white;
+	color: #A4B7D9;
+	transform: scale(1.05);
+}
+.tittle {
+	font-family: 'Montserrat', sans-serif;
+}
+.sub-tittle {
+	font-family: 'Libre Baskerville', serif;
+	color: gray !important;
+}
